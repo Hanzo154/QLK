@@ -1,0 +1,10 @@
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\bin\Debug\QLK.exe.config
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\bin\Debug\QLK.exe
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\bin\Debug\QLK.pdb
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.csprojAssemblyReference.cache
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.frmLogin.resources
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.Properties.Resources.resources
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.csproj.GenerateResource.cache
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.csproj.CoreCompileInputs.cache
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.exe
+D:\YEAR4\HK2\LUANVAN\FrontEnd\QLK\QLK\obj\Debug\QLK.pdb
