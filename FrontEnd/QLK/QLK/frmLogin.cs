@@ -12,6 +12,7 @@ namespace QLK
 {
     public partial class frmLogin : Form
     {
+        dahsdgáhd
         public frmLogin()
         {
             InitializeComponent();
